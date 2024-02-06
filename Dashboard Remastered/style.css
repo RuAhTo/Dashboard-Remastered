@@ -7,7 +7,7 @@
 
 /* Body styles */
 body {
-  background-color: #00becf;
+  background-color: #fbfbfb;
   font-size: 16px;
   line-height: 1.5;
   color: #333;
@@ -453,7 +453,5 @@ h2{
   }
   .main-container{
     width: 100%;
-  }
-  .content-card{
   }
 }

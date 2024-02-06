@@ -1,19 +1,19 @@
 //Import Dictionary function
-import {getResult, submit} from 'Dashboard Remastered/script/modules/Dictionary.js'
+import {getResult, submit} from '/script/modules/Dictionary.js'
 
 submit.addEventListener('click', (input) =>{
   getResult(input);
 })
 
 //Import Weather function
-import {getWeather} from 'Dashboard Remastered/script/modules/weather.js'
+import {getWeather} from '/script/modules/weather.js'
 
 document.addEventListener('DOMContentLoaded', async () => {
   getWeather();
 })
 
 // Import Unsplash function
-import {fetchAndApplyBackground, rndmImg} from 'Dashboard Remastered/script/modules/unsplash.js'
+import {fetchAndApplyBackground, rndmImg} from '/script/modules/unsplash.js'
 
 document.addEventListener('DOMContentLoaded', fetchAndApplyBackground);
 rndmImg.addEventListener("click", fetchAndApplyBackground);

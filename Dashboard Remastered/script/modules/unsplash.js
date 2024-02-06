@@ -1,5 +1,5 @@
 //Insert your API key below
-const apiKey = XXXX
+const apiKey = 'XXXX'
 
 const apiUrl = `https://api.unsplash.com/photos/random?count=1&client_id=${apiKey}`;
 

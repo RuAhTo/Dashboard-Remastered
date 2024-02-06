@@ -1,5 +1,5 @@
 //Insert your Key below in "apiKey"
-const apiKey = XXXX
+const apiKey = 'XXXX'
 let URL = '';
 
 async function getData(latitude, longitude) {
