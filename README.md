@@ -47,14 +47,6 @@ For additional details and user guides, refer to the following documentation:
 - OpenWeatherMap API Guide for API Key: [OpenWeatherMap Guide](https://openweathermap.org/guide)
 - Unsplash Image API Guide for API Key: [Unsplash Developer Guide](https://unsplash.com/developers)
 
-## Contributing
-
-We welcome contributions! If you'd like to contribute to the project, please follow our guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is not licensed.
-
 ## Contact
 
 If you need support or have any questions, feel free to contact us at Ruben.Ahlin@Chasacademy.com.
